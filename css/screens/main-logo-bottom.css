@@ -1,0 +1,56 @@
+/** @format */
+
+.screen-main-bottom {
+	margin-top: 30px;
+}
+.screen-main-bottom button {
+	border: none;
+}
+.screen-main-bottom button:hover {
+	cursor: pointer;
+	box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+.screen-main-bottom__btn {
+	display: flex;
+	justify-content: center;
+}
+.screen-main-bottom__btn span {
+	margin: 0 5px;
+}
+.screen-main-bottom__btn button {
+	font-size: 13px;
+	color: rgb(87, 85, 85);
+	background-color: rgb(248, 246, 246);
+	opacity: 80%;
+}
+.screen-main-bottom__offer {
+	display: flex;
+	justify-content: center;
+	margin-top: 23px;
+}
+.screen-main-bottom__btn-google {
+	width: 110px;
+	height: 40px;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.screen-main-bottom__btn-lucky {
+	width: 130px;
+	height: 40px;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.screen-main-bottom__offer-service {
+	display: flex;
+	margin-top: 12px;
+	justify-content: center;
+	align-items: center;
+	font-size: 13px;
+}
+.screen-main-bottom__offer-service a {
+	color: blue;
+}
